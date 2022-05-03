@@ -5,7 +5,7 @@
 </p>
 
 # Silvane Silva
-<sub>*Student Data Scientist* Center</sub>
+<sub>*Estudante  de Ciências de Dados</sub>
 
 Estudante autodidata de Ciência de Dados, utilizando das habilidades de programação para desenvolvimento da automatização da busca de dados em fontes abertas.
 
